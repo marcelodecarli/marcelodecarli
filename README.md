@@ -43,7 +43,7 @@
 
 <div>
 
-<a href="https://www.linkedin.com/in/marcelodecarli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/marcelodecarli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   
 </div>
 
