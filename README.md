@@ -10,6 +10,10 @@
 
 <div style="flex-basis: auto">
 
+<p>
+In my projects I used different technologies and tools, below you can check them:
+ </p> <br>
+
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -18,7 +22,7 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/marcelodecarli/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg">
+ 
 
 </div>
 
@@ -26,7 +30,7 @@
   <br>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center" alt="github" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="postman" height="40" width="50" src="https://raw.githubusercontent.com/marcelodecarli/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original-wordmark.svg">
 
 </div>
@@ -36,7 +40,8 @@
 - Dedicated;
 - Communicative ;
 - Attentive;
-- Creative.
+- Creative;
+- Adaptive.
 
 
 ## How to reach me:
