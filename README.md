@@ -45,7 +45,7 @@ In my projects I used different technologies and tools, below you can check them
 - Adaptive.
 
 ---
-### Card - Most Used Languages and Most Used Languages Compact
+### Most Used Languages:
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcelodecarli&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ---
