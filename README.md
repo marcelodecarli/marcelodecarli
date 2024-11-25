@@ -2,7 +2,7 @@
 
 - 👋 My name is Marcelo de Carli Rocha
 - 📃 This is my personal page <a href="https://marcelodecarli.github.io/MarceloDeCarliRocha/" target="_blank">Use this link to access the page</a>
-- ➕ This is my first working calculator, you can access clicking on the link [Calculator]([https://github.com/marcelodecarli/calculadora](https://marcelodecarli.github.io/calculadora/))
+- ➕ This is my first working calculator, you can access clicking on the link [Calculator]([https://github.com/marcelodecarli/calculadora](https://marcelodecarli.github.io/calculadora/)
 - 👀 I’m interested in development learning.
 - 🌱 I’m currently a student of Systems Development Analysis and Systems Development Technical and I’m English estudant too.
 - 💞️ I’m looking on to improve my skills.
