@@ -12,7 +12,7 @@
 - 🦸‍♂️ This game is about hitting the random Ralph image the most times, you can try clicking on the link [Hitting Ralph](https://marcelodecarli.github.io/jogoDetonaRalph/)
 - 🀄 This game is like Rock, Paper and Scissors, I adapted the appearance of cards from the Yu-Gi-Oh cartoon, you can try clicking on the link [Paper and Scissors](https://marcelodecarli.github.io/jogoCartasYu-Gi-Oh/)
 - 🕵️‍♀️ This is the memory game, you can try clicking on the link [Memory Game](https://marcelodecarli.github.io/jogoDaMemoria/)
-- 🎹 This is the virtual keybord, you can try play clicking on the link [Memory Game](https://marcelodecarli.github.io/TecladoMeu/)
+- 🎹 This is the virtual keybord, you can try play clicking on the link [Virtual Keybord](https://marcelodecarli.github.io/TecladoMeu/)
 
 ---
 
