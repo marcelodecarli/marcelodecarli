@@ -1,11 +1,19 @@
 # About me:
 
 - 👋 My name is Marcelo de Carli Rocha
-- 📃 This is my personal page <a href="https://marcelodecarli.github.io/MarceloDeCarliRocha/" target="_blank">Use this link to access the page</a>
-- ➕ This is my first working calculator, you can access clicking on the link [Calculator](https://marcelodecarli.github.io/calculadora/)
 - 👀 I’m interested in development learning.
 - 🌱 I’m currently a student of Systems Development Analysis and Systems Development Technical and I’m English estudant too.
 - 💞️ I’m looking on to improve my skills.
+
+## My training:
+  
+- 📃 This is my personal page <a href="https://marcelodecarli.github.io/MarceloDeCarliRocha/" target="_blank">Use this link to access the page</a>
+- ➕ This is my first working calculator, you can access clicking on the link [Calculator](https://marcelodecarli.github.io/calculadora/)
+- 🦸‍♂️ This game is about hitting the random Ralph image the most times, you can try clicking on the link [Detona Ralph](https://marcelodecarli.github.io/jogoDetonaRalph/)
+- 🀄 This game is like Rock, Paper and Scissors, I adapted the appearance of cards from the Yu-Gi-Oh cartoon, you can try clicking on the link [Paper and Scissors](https://marcelodecarli.github.io/jogoCartasYu-Gi-Oh/)
+- 🕵️‍♀️ This is the memory game, you can try clicking on the link [Memory Game](https://marcelodecarli.github.io/jogoDaMemoria/)
+
+
 ---
 
 ## Hardskills
